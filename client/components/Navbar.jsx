@@ -1,5 +1,5 @@
 import { useContext, useState, useRef, useEffect } from "react";
-import { AuthContext } from "../context/authContext";
+import { AuthContext } from "../context/AuthContext";
 import { useNavigate, useLocation, Link } from "react-router-dom";
 import {
   LogOut, TrendingUp, LayoutDashboard,

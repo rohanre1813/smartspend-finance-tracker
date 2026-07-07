@@ -1,6 +1,6 @@
 import { useState, useContext, useEffect } from "react";
 import API from "../services/api";
-import { AuthContext } from "../context/authContext";
+import { AuthContext } from "../context/AuthContext";
 import { useNavigate, Link } from "react-router-dom";
 import { Mail, Lock, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
