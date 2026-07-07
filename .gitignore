@@ -29,12 +29,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Temporary files
-ai-finance-platform/
-ai-finance-platform
-ai-finance-platform.*
-*.tmp
-
 # Coverage
 coverage/
 
